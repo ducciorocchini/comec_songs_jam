@@ -1,4 +1,4 @@
-# Songs for the jam session at COMEC Trieste - https://akcongress.com/comec/
+# Songs and material for the jam session at COMEC Trieste - https://akcongress.com/comec/
 
 ## Musicians 🎼:
 + Jacopo Iaria - drums 🥁
@@ -15,8 +15,9 @@
 + Johnny B. Goode (A)
 + Venus
 + Twist & shout (C)
-+ hey Joe (E)
++ Hey Joe (E)
 + Barbara Ann (A)
++ Back in USSR (A)
 + ...
 
 
