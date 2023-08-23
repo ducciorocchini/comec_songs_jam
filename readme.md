@@ -20,7 +20,7 @@
 + ...
 
 
-## Material needed:
+## Materials needed 🔈:
 + microphone and cable plus mic stand
 + bass amplifier
 + guitar amplifier x2
