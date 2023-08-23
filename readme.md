@@ -21,7 +21,8 @@
 
 
 ## Materials needed 🔈:
-+ microphone and cable plus mic stand
++ microphone (voice) and cable plus mic stand
++ microphone (drums) and cable plus mic stand
 + bass amplifier
 + guitar amplifier x2
 + mixer and speakers with cables
