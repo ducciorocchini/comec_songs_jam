@@ -18,3 +18,11 @@
 + hey Joe (E)
 + Barbara Ann (A)
 + ...
+
+
+## Material needed:
++ microphone and cable plus mic stand
++ bass amplifier
++ guitar amplifier x2
++ mixer and speakers with cables
++ drums ?
