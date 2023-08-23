@@ -1,6 +1,6 @@
-## Songs for the jam session at COMEC Trieste - https://akcongress.com/comec/
+# Songs for the jam session at COMEC Trieste - https://akcongress.com/comec/
 
-# Musicians:
+## Musicians:
 + Jacopo Iaria - drums
 + Michele Di Musciano - guitar
 + Francesco De Bello - guitar and bass
