@@ -15,4 +15,6 @@
 + Johnny B. Goode (A)
 + Venus
 + Twist & shout (C)
++ hey Joe (E)
++ Barbara Ann (A)
 + ...
