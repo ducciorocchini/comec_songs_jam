@@ -22,6 +22,7 @@
 + Voodoo child (E)
 + Lonely boy
 + Little wing (Em)
++ Jumpin' Jack Flash
 + ...
 
 
