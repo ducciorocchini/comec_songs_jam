@@ -9,7 +9,7 @@
 + Janos Podani - bass 🎸
 
 ## Potential songs 🎵:
-+ Don't fear the reaper (A)
++ Don't fear the reaper (Am)
 + Roadhouse blues (E)
 + Fortunate son (G)
 + Sweet home Chicago (E)
