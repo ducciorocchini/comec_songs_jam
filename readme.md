@@ -19,6 +19,9 @@
 + Hey Joe (E)
 + Barbara Ann (A)
 + Back in USSR (A)
++ Voodoo child (E)
++ Lonely boy
++ Little wing (Em)
 + ...
 
 
