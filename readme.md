@@ -30,7 +30,8 @@
 + Impressioni di Settembre (Em)
 + Jaikhouse rock (D)
 + Blue Suede Shoes (A)
-+ ....
++ Hound dog (C)
++ ...
 
 ## Materials needed 🔈:
 + microphone (voice) and cable plus mic stand
