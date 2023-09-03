@@ -1,4 +1,4 @@
-# Songs and material for the jam session at COMEC Trieste - https://akcongress.com/comec/
+⁹# Songs and material for the jam session at COMEC Trieste - https://akcongress.com/comec/
 
 ## Musicians 🎼:
 + Marco - drums 🥁
@@ -31,6 +31,7 @@
 + Jaikhouse rock (D)
 + Blue Suede Shoes (A)
 + Hound dog (C)
++ Tuttifrutti (D)
 + ...
 
 ## Materials needed 🔈:
