@@ -28,7 +28,9 @@
 + Travelin' band (D)
 + Creep (G)
 + Impressioni di Settembre (Em)
-
++ Jaikhouse rock (D)
++ Blue Suede Shoes (A)
++ ....
 
 ## Materials needed 🔈:
 + microphone (voice) and cable plus mic stand
