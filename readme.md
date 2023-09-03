@@ -7,6 +7,8 @@
 + Francesco De Bello - guitar and bass 🎸
 + Duccio Rocchini - guitar and bass 🎸
 + Janos Podani - bass 🎸
++ Ludovico Chieffallo - keyboards 🎹
++ Sofia Prandelli - guitar 🎸
 
 ## Potential songs 🎵:
 + Don't fear the reaper (Am)
