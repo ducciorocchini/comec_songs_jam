@@ -27,7 +27,7 @@
 + Jumpin' Jack Flash (B)
 + Travelin' band (D)
 + Creep (G)
-+ ...
++ Impressioni di Settembre (Em)
 
 
 ## Materials needed 🔈:
