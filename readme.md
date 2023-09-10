@@ -32,7 +32,8 @@
 + Blue Suede Shoes (A)
 + Hound dog (C)
 + Tuttifrutti (D)
-+ ...
++ Surfin bird
++ 
 
 ## Materials needed 🔈:
 + microphone (voice) and cable plus mic stand
