@@ -8,7 +8,7 @@
 + Duccio Rocchini - guitar and bass 🎸
 + Janos Podani - bass 🎸
 + Ludovico Chieffallo - keyboards 🎹
-+ Sofia Prandelli - guitar 🎸
++ Damiano Baldan - guitar 🎸
 
 ## Potential songs 🎵:
 + Don't fear the reaper (Am)
@@ -33,6 +33,7 @@
 + Hound dog (C)
 + Tuttifrutti (D)
 + Surfin bird
++ Roll over Beethoven (D)
 + 
 
 ## Materials needed 🔈:
